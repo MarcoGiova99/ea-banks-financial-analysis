@@ -41,5 +41,6 @@ openpyxl
 - **Marco Giovannini** — (https://github.com/MarcoGiova99)
 - **Vittoria Calonghi** — (https://github.com/Vittoria-C)
 - **Matteo Montali** — (https://github.com/matteomontali)
+- **Andrea Sarli** — (https://github.com/andreasarli)
 
 Project developed for the course *Applied Data Science for Banking and Finance*, Università Cattolica del Sacro Cuore (A.Y. 2025–2026).
